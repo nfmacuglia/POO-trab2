@@ -1,0 +1,5 @@
+numero;nome;codigo;cep;tipo;patrimônio_escolaridade
+12;Presidente 12;12;00000-00;1;120000.00
+23;Presidente 23;23;00000-00;1;230000.00
+123;Governador 12;12;11111-11;2;Graduacao
+234;Governador 23;23;11111-11;2;Mestrado
